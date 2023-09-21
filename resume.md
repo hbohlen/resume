@@ -69,5 +69,4 @@ subject: 'Subject'
   - jQuery
   - PHP
   - HTML/CSS
-  - React.js
 
