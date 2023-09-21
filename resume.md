@@ -10,10 +10,10 @@ keywords:
   - 'mysql'
   - 'linux'
 author:
-- I am the author
+- Hayden Bohlen
 subject: 'Subject'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### [[example.com](https://example.com)] . [ bohlenhayden@gmail.com] . [ 402 350 0711 ]
 
 ### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
 
@@ -36,36 +36,6 @@ subject: 'Subject'
 **Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
 **DevOps**: Ansible, Chef, Kubernetes, etc.
 
-## Experience
-
-### CEO and Founder, Pied Piper
-
-start-date-end-date, City, State and remote
-
-- Things you did/do here
-- More things that you do here.
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-### Senior Software Architect, Hooli
-
-2010-2016, San Francisco, CA
-
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-## Awards & Recognition
-
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
-
-## Projects
-
-**[*Personal Blog*](http://luther.io)** (2021-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
 
 ## Education
 
