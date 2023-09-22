@@ -35,6 +35,7 @@ subject: 'Subject'
 ```C/C++```
 ```Assembly Language```
 ```Verilog/VHDL```
+```Git```
 
 ## Certifications
 
