@@ -17,7 +17,7 @@ subject: 'Subject'
 ---
 ###### [ bohlenhayden@gmail.com] . [hbohlen@mail.mccneb.edu] . [ 402 350 0711 ]
 
-# Aspiring web developer with a passion for creating dynamic and user-friendly websites. Adept at coding in HTML, CSS, and JavaScript, with a strong foundation in front-end development. Eager to leverage my problem-solving skills, creativity, and dedication to deliver innovative web solutions that enhance user experiences and drive business growth. Seeking opportunities to learn and collaborate within a dynamic web development team.
+#### Aspiring web developer with a passion for creating dynamic and user-friendly websites. Adept at coding in HTML, CSS, and JavaScript, with a strong foundation in front-end development. Eager to leverage my problem-solving skills, creativity, and dedication to deliver innovative web solutions that enhance user experiences and drive business growth. Seeking opportunities to learn and collaborate within a dynamic web development team.
 
 
 ## Skills
