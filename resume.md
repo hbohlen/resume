@@ -15,25 +15,30 @@ author:
 - Hayden Bohlen
 subject: 'Subject'
 ---
-###### [ bohlenhayden@gmail.com] . [ 402 350 0711 ]
+###### [ bohlenhayden@gmail.com] . [hbohlen@mail.mccneb.edu] . [ 402 350 0711 ]
 
-### Aspiring web developer with a passion for creating dynamic and user-friendly websites. Adept at coding in HTML, CSS, and JavaScript, with a strong foundation in front-end development. Eager to leverage my problem-solving skills, creativity, and dedication to deliver innovative web solutions that enhance user experiences and drive business growth. Seeking opportunities to learn and collaborate within a dynamic web development team.
+# Aspiring web developer with a passion for creating dynamic and user-friendly websites. Adept at coding in HTML, CSS, and JavaScript, with a strong foundation in front-end development. Eager to leverage my problem-solving skills, creativity, and dedication to deliver innovative web solutions that enhance user experiences and drive business growth. Seeking opportunities to learn and collaborate within a dynamic web development team.
 
 
 ## Skills
 
-```programming```
+```Programming```
 ```Responsive Web Design Principles```
 ```WordPress```
 ```jQuery```
-```HTML and CSS```
+```HTML/CSS```
 ```Javascript```
-```ReactJs```
+```React.js```
 ```PHP```
+```Node.js```
+```Java```
+```C/C++```
+```Assembly Language```
+```Verilog/VHDL```
 
+## Certifications
 
-**Programming**: HTML/CSS, JavaScript, jQuery, PHP, React.js, Java, C, C++, Assembly, Verilog/VHDL
-
+### Web Development (WDCII), Metropolitan Community College
 
 ## Education
 
@@ -51,7 +56,7 @@ subject: 'Subject'
 
 ## Volunteer
 
-### Nebraska Robotics Expo Volunteer, February 2017
+### Nebraska Robotics Expo Volunteer
   - Assisted in organizing and running events for high school students to showcase their robotics projects.
   - Provided technical troubleshooting and support to ensure the smooth execution of the expo.
 
@@ -61,12 +66,5 @@ subject: 'Subject'
 
 
 
-## Certifications
 
-### Web Development (WDCII), Metropolitan Community College
-  
-  - JavaScript
-  - jQuery
-  - PHP
-  - HTML/CSS
 
