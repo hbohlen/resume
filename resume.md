@@ -43,13 +43,13 @@ subject: 'Subject'
 
 ## Education
 
-### Bachelors in Computer Science, University of Nebraska-Omaha
+### Bachelors in Computer Science, University of Nebraska-Omaha - In Progress
   - Strong programming skills in languages such as Java and C/C++
   - Algorithm design principles
   - Data structures
   - Software Engineering principles and best practices
 
-### Associates in Applied Science: Information Technology, Metropolitan Community College
+### Associates in Applied Science: Information Technology, Metropolitan Community College - In Progress
   - HTML, CSS, and JavaScript for front-end development
   - Web design principles and responsive web development
   - Content management systems with WordPress
